@@ -201,6 +201,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 
 ### Audio & Media
 - [bibigpt-skill](https://github.com/JimmyLv/bibigpt-skill) - AI-powered video, audio & podcast summarization
+- [levea-video-editor](https://github.com/brajendrak00068/agentic-ai-video-production) - Autonomous AI video editor plugin & 37-tool MCP server for viral TikTok/Reels/Shorts clips, 280+ animated caption templates, 9:16 active-speaker reframe, silence removal, multi-cam podcast sync, B-roll, motion graphics, chroma key, and cloud MP4 export.
 
 ### Design UX
 - [brand-guardian](./plugins/brand-guardian)
